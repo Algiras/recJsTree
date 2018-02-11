@@ -1,0 +1,367 @@
+{
+  "ForInStatement": {
+    "values": [
+      "left",
+      "right",
+      "body"
+    ]
+  },
+  "UpdateExpression": {
+    "values": [
+      "argument"
+    ]
+  },
+  "ForStatement": {
+    "values": [
+      "init",
+      "test",
+      "update",
+      "body"
+    ]
+  },
+  "ConditionalExpression": {
+    "values": [
+      "test",
+      "consequent",
+      "alternate"
+    ]
+  },
+  "LogicalExpression": {
+    "values": [
+      "left",
+      "right"
+    ]
+  },
+  "NewExpression": {
+    "values": [
+      "callee"
+    ],
+    "lists": [
+      "arguments"
+    ]
+  },
+  "Property": {
+    "values": [
+      "key",
+      "value"
+    ]
+  },
+  "ObjectExpression": {
+    "lists": [
+      "properties"
+    ]
+  },
+  "IfStatement": {
+    "values": [
+      "test",
+      "consequent",
+      "alternate"
+    ]
+  },
+  "UnaryExpression": {
+    "values": [
+      "argument"
+    ]
+  },
+  "SequenceExpression": {
+    "lists": [
+      "expressions"
+    ]
+  },
+  "BinaryExpression": {
+    "values": [
+      "left",
+      "right"
+    ]
+  },
+  "VariableDeclarator": {
+    "values": [
+      "id",
+      "init"
+    ]
+  },
+  "VariableDeclaration": {
+    "lists": [
+      "declarations"
+    ]
+  },
+  "FunctionDeclaration": {
+    "values": [
+      "id",
+      "body"
+    ],
+    "lists": [
+      "params"
+    ]
+  },
+  "BlockStatement": {
+    "lists": [
+      "body"
+    ]
+  },
+  "ReturnStatement": {
+    "values": [
+      "argument"
+    ]
+  },
+  "Literal": {},
+  "AssignmentExpression": {
+    "values": [
+      "left",
+      "right"
+    ]
+  },
+  "Program": {
+    "lists": [
+      "body"
+    ]
+  },
+  "Identifier": {},
+  "ExpressionStatement": {
+    "values": [
+      "expression"
+    ]
+  },
+  "FunctionExpression": {
+    "values": [
+      "body"
+    ],
+    "lists": [
+      "params"
+    ]
+  },
+  "MemberExpression": {
+    "values": [
+      "object",
+      "property"
+    ]
+  },
+  "CallExpression": {
+    "values": [
+      "callee"
+    ],
+    "lists": [
+      "arguments"
+    ]
+  },
+  "ArrayExpression": {
+    "lists": [
+      "elements"
+    ]
+  },
+  "TemplateLiteral": {
+    "values": [],
+    "lists": [
+      "expressions",
+      "quasis"
+    ]
+  },
+  "TemplateElement": {},
+  "ThrowStatement": {
+    "values": [
+      "argument"
+    ]
+  },
+  "TryStatement": {
+    "values": [
+      "block",
+      "handler"
+    ]
+  },
+  "CatchClause": {
+    "values": [
+      "param",
+      "body"
+    ]
+  },
+  "DoWhileStatement": {
+    "values": [
+      "body",
+      "test"
+    ]
+  },
+  "ContinueStatement": {
+    "values": [
+      "label"
+    ]
+  },
+  "ThisExpression": {},
+  "BreakStatement": {
+    "values": [
+      "label"
+    ]
+  },
+  "WhileStatement": {
+    "values": [
+      "test",
+      "body"
+    ]
+  },
+  "undefined": {
+    "values": [
+      "body",
+      "label"
+    ]
+  },
+  "LabeledStatement": {
+    "values": [
+      "body",
+      "label"
+    ]
+  },
+  "SwitchStatement": {
+    "values": [
+      "discriminant"
+    ],
+    "lists": [
+      "cases"
+    ]
+  },
+  "SwitchCase": {
+    "values": [
+      "test"
+    ],
+    "lists": [
+      "consequent"
+    ]
+  },
+  "ArrowFunctionExpression": {
+    "values": [
+      "id",
+      "body"
+    ],
+    "lists": [
+      "params"
+    ]
+  },
+  "ImportDeclaration": {
+    "values": [
+      "source"
+    ],
+    "lists": [
+      "specifiers"
+    ]
+  },
+  "ImportDefaultSpecifier": {},
+  "ImportSpecifier": {},
+  "ExportNamedDeclaration": {
+    "values": [
+      "source"
+    ],
+    "lists": [
+      "specifiers"
+    ]
+  },
+  "ExportSpecifier": {
+    "values": [
+      "local",
+      "exported"
+    ]
+  },
+  "EmptyStatement": {},
+  "ExportDefaultDeclaration": {
+    "values": [
+      "declaration"
+    ]
+  },
+  "ImportNamespaceSpecifier": {
+    "values": [
+      "local"
+    ]
+  },
+  "ObjectPattern": {
+    "values": [],
+    "lists": [
+      "properties"
+    ]
+  },
+  "ClassDeclaration": {
+    "values": [
+      "id",
+      "superClass",
+      "body"
+    ]
+  },
+  "AssignmentPattern": {
+    "values": [
+      "left",
+      "right"
+    ]
+  },
+  "ClassBody": {
+    "lists": [
+      "body"
+    ]
+  },
+  "MethodDefinition": {
+    "values": [
+      "key",
+      "value"
+    ]
+  },
+  "Super": {
+  },
+  "ArrayPattern": {
+    "lists": [
+      "elements"
+    ]
+  },
+  "SpreadElement": {
+    "values": [
+      "argument"
+    ]
+  },
+  "RestElement": {
+    "values": [
+      "argument"
+    ]
+  },
+  "ClassExpression": {
+    "values": [
+      "id",
+      "superClass",
+      "body"
+    ]
+  },
+  "AwaitExpression": {
+    "values": [
+      "argument"
+    ]
+  },
+  "DebuggerStatement": {},
+  "ExportAllDeclaration": {
+    "values": [
+      "source"
+    ]
+  },
+  "ForOfStatement": {
+    "values": [
+      "left",
+      "right",
+      "body"
+    ]
+  },
+  "Import": {},
+  "MetaProperty": {
+    "values": [
+      "meta"
+    ]
+  },
+  "TaggedTemplateExpression": {
+    "values": [
+      "tag",
+      "quasi"
+    ]
+  },
+  "WithStatement": {
+    "values": [
+      "object",
+      "body"
+    ]
+  },
+  "YieldExpression": {
+    "values": [
+      "argument"
+    ]
+  }
+}
